@@ -1,4 +1,4 @@
-# onepdfshrink
+# ONE PDF Shrink
 
 A powerful Python script to reduce PDF file sizes through intelligent compression, image optimization, and file splitting capabilities.
 
